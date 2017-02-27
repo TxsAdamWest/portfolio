@@ -1161,3 +1161,31 @@ body.vintage .testimonials .testimonials-carousel .owl-controls .owl-prev,
 body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
   line-height: 55px;
 }
+
+#portfolioModal10 h2 {
+  color: #0a8fd5;
+}
+
+#portfolioModal10 p {
+  color: #0a8fd5;
+}
+
+#portfolioModal10 a {
+  color: #0a8fd5;
+}
+
+#portfolioModal10 ul {
+  color: #0a8fd5;
+}
+
+#portfolioModal10 .btn {
+  border: 1px solid #0a8fd5;
+}
+
+#portfolioModal10 .btn:nth-child(2) {
+  background: #0a8fd5;
+}
+
+#portfolioModal10 .close-modal {
+  background-color: #0a8fd5;
+}
