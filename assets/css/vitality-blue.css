@@ -1189,3 +1189,33 @@ body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
 #portfolioModal10 .close-modal {
   background-color: #0a8fd5;
 }
+
+/*End Custom 10*/
+
+#portfolioModal11 h2 {
+  color: #766761;
+}
+
+#portfolioModal11 p {
+  color: #766761;
+}
+
+#portfolioModal11 a {
+  color: #766761;
+}
+
+#portfolioModal11 ul {
+  color: #766761;
+}
+
+#portfolioModal11 .btn {
+  border: 1px solid #766761;
+}
+
+#portfolioModal11 .btn:nth-child(2) {
+  background: #766761;
+}
+
+#portfolioModal11 .close-modal {
+  background-color: #766761;
+}
